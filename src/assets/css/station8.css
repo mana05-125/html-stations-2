@@ -28,9 +28,6 @@ footer {
     grid-column: 1 / 12;
 }
 
-.item1, .item2, .item3, .item4 {
-    border: 1px white solid;
-}
 
 .item1 {
     grid-row: 2 / 8;
